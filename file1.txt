@@ -1,0 +1,4 @@
+Hari ini adalah hari yang cerah.
+Saya belajar bahasa pemrograman Python.
+Saya suka makan pizza.
+Saya senang belajar hal baru.
